@@ -1,0 +1,9 @@
+{
+  "gifts": [
+    {"name": "Bread", "boost": 20},
+    {"name": "Water", "boost": 5},
+    {"name": "Mystery Pills", "boost": -10},
+    {"name": "Cookie", "boost": 10},
+    {"name": "Cheese Touch", "boost": 50}
+  ]
+}
