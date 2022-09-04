@@ -3,7 +3,7 @@
 ## Preface
 Thanks for applying to Web Development at Berkeley & for taking the time to work on this technical project. Projects are due Wednesday, September 7th by 11:59 PM.
 
-This project is designed for **you** to gauge whether you want to apply to the **bootcamp** or **industry** branch. Completing all tasks for the branch you are applying to is highly preferred, but don't worry if you aren't able to finish everything! As an estimate, you shouldn't need to spend any longer than ~3-4 hours on this project -- we don't want this to be a huge burden on you.
+This project is designed for **you** to gauge whether you want to apply to the **bootcamp** or **industry** branch. Completing all checkpoints for the branch you are applying to is highly preferred, but don't worry if you aren't able to finish everything! As an estimate, you shouldn't need to spend any longer than ~3-4 hours on this project -- we don't want this to be a huge burden on you.
 
 
 ## Clarifications
@@ -37,7 +37,9 @@ The Grand Cheese Race has been the most elite sporting event for thousands of ye
 5. simulate *n* seconds taking place
 6. get metadata on which items have been gifted (**Industry only**)
 
-In particular, they want you to build an API capable of handling all of the functionality mentioned above.
+In particular, they want you to build an API capable of handling all of the functionality mentioned above. 
+
+_**NOTE: THERE ARE SEPARATE TASKS FOR BOOTCAMP VS. INDUSTRY**_
 
 # API Specification
 
