@@ -9,6 +9,7 @@ This project is designed for **you** to gauge whether you want to apply to the *
 ## Clarifications
 - to clarify, latecomers (runners who register after some time has passed) still start at the beginning of the race!
 - you only need to query the valid gifts API once, you can assume it won't change after that.
+- you do not need to use a cloud-hosted MongoDB instance. Localhost is fine for everything.
 
 ## Submission Instructions
 
