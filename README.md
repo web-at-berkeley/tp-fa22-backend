@@ -384,8 +384,8 @@ Example response:
 
 {
     "runners": [
-        "Anjan",
         "Danielle",
+        "Anjan",
         "Nico",
         "Vaikundh",
     ]  
